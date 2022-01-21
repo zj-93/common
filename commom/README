@@ -1,0 +1,20 @@
+bkForm  表单加详情组件
+  isAdd 切换 true 或 false
+
+demo  组件使用demo
+
+printCompent  打印组件
+
+tableForm table表单加详情组件
+  isAdd 切换 addTable 或 detailTable
+
+uploadFile  上传组件
+  oldUpload 兼容旧版上传
+  upload 新版上传
+
+utils 公共方法文件
+  exportFiles 导出方法
+
+vHeight 自定义高度指令
+
+
